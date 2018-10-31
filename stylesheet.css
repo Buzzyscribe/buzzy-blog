@@ -1,0 +1,32 @@
+.gg{border:2px groove blue; }
+.a{border:none; }
+input {
+border:2px groove blue;
+width:200px;
+height:30px;
+border-radius:10px;
+background-color:none;
+}
+input:focus {background-color:#c4c4c4;}
+
+.s{border:2px groove blue;
+width:200px;
+height:30px;
+border-radius:10px;
+	
+ }
+ .form{
+	 background-image:url(c.jpg);
+	 border:2px solid white;
+	 width:500px;
+	 color:black;
+ }
+ body{
+	 background-color:deepskyblue;
+ }
+ 
+ .title{
+	 color:white;
+	 height:px;
+	 margin-top:-21px;
+ }
